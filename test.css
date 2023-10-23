@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 50px;
+    width: 100%;
+    padding: 15px 0;
+    background-color: #337079;
+    color: white;
+}
+
+header .headline {
+    line-height: 50px;
+
+    font-size: 30px;
+    text-align: center;
+    padding: 0px;
+
+}
