@@ -19,3 +19,103 @@ header .headline {
     padding: 0px;
 
 }
+main  {
+    
+    text-align: center;
+    margin: 20px 600px;
+    
+}
+main div {
+    border: 1px solid #000;
+    margin: 10px 0px;
+}
+main div h3 {
+    background: rgb(255, 96, 199); 
+}
+main h6 {
+    margin: 5px
+}
+
+main .time1 .youso1 {
+    border: 1px solid #000;
+    margin: 0px 50px;
+    padding: 10px;
+    background: orange;
+}
+main .stertbutton1 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    background: #333;
+    margin : 5px ;
+    padding: 0px 53px;
+    border-radius: 6px;
+    transition: .1s;
+}
+main .stertbutton1:hover{
+    background: #13c3ac
+    
+}
+
+main .time2 .youso2 {
+    border: 1px solid #000;
+    margin: 0px 50px;
+    padding: 10px;
+    background: orange;
+}
+main .stertbutton2 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    background: #333;
+    margin : 5px ;
+    padding: 0px 53px;
+    border-radius: 6px;
+    transition: .1s;
+}
+main .stertbutton2:hover{
+    background: #13c3ac
+    
+}
+
+main .time3 .youso3 {
+    border: 1px solid #000;
+    margin: 0px 50px;
+    padding: 10px;
+    background: orange;
+}
+main .stertbutton3 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    background: #333;
+    margin : 5px ;
+    padding: 0px 53px;
+    border-radius: 6px;
+    transition: .1s;
+}
+main .stertbutton3:hover{
+    background: #13c3ac
+    
+}
+
+main .time4 .youso4 {
+    border: 1px solid #000;
+    margin: 0px 50px;
+    padding: 10px;
+    background: orange;
+}
+main .stertbutton4 {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    background: #333;
+    margin : 5px ;
+    padding: 0px 53px;
+    border-radius: 6px;
+    transition: .1s;
+}
+main .stertbutton4:hover{
+    background: #13c3ac
+    
+}
